@@ -1,0 +1,6 @@
+Parts not found in 3dpack.dat or 3dusrpac.dat are:
+//BAT1		BATTCON_12MM_PTH
+//JP1	USBPCB	USB-A-PCB
+//JP2		1X06_NO_SILK
+//JP3		1X03_NO_SILK
+//LOGO1	OSHW-LOGOS	OSHW-LOGO-S
